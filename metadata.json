@@ -1,0 +1,6 @@
+{
+  "name": "TheDeals24",
+  "description": "Your Smart Shopping Assistant. Find best deals, compare prices across stores, get coupons, read reviews, track price drop history, and shop smarter with AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
